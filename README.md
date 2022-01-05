@@ -1,4 +1,4 @@
-# Neural Networks - UC3M
+# Machine Learning Applications - UC3M
 
 ----------------------------------------------------------------------------------------
 ## Table of contents
